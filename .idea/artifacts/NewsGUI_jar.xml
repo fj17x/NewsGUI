@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NewsGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NewsGUI_jar</output-path>
+    <root id="archive" name="NewsGUI.jar">
+      <element id="module-output" name="NewsGUI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/json-20220320.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jsoup-1.15.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
